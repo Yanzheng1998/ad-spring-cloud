@@ -11,7 +11,8 @@
     <modules>
         <module>ad-eureka</module>
         <module>ad-gateway</module>
-        <module>yanzheng-ad-service</module>
+        <module>ad-service</module>
+
     </modules>
 
     <name>yanzheng-ad-spring-cloud</name>
